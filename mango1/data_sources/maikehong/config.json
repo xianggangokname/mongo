@@ -1,0 +1,10 @@
+{
+    "name": "maikehong",
+    "type": "mongodb-atlas",
+    "config": {
+        "clusterName": "maikehong",
+        "readPreference": "primary",
+        "wireProtocolEnabled": false
+    },
+    "version": 1
+}
